@@ -1,9 +1,5 @@
 # Hi there 👋, I'm Vansh
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=16+Years+Old;Learning+Full+Stack+Web+Development;Python+Enthusiast;Future+AI+Developer" alt="Typing SVG" />
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -31,7 +27,7 @@
 ## 💻 Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=vscode,python,html,css,js,github" />
 </p>
 
 ---
