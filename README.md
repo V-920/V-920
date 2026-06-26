@@ -49,10 +49,10 @@
 
 ---
 
-## 🎯 Goals for 2026
+## 🎯 Goals
 
 - ✅ Learn HTML
-- 🔄 Master CSS
+- 🔄 Learn CSS
 - 🔄 Learn JavaScript
 - 🔄 Explore AI & Machine Learning
 - 🔄 Contribute to Open Source
