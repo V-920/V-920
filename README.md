@@ -17,7 +17,7 @@
 ## 🛠️ Currently Learning
 
 - HTML
-- CSS *(Next)*
+- CSS *(Current)*
 - JavaScript
 - Full Stack Development
 - AI & Machine Learning *(If Web Development doesnt work out)*
