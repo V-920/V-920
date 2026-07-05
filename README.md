@@ -20,7 +20,7 @@
 - CSS *(Current)*
 - JavaScript
 - Full Stack Development
-- AI & Machine Learning *(If Web Development doesnt work out)*
+- AI Automation *(If Web Development doesnt work out)*
 
 ---
 
