@@ -4,14 +4,11 @@
 
 ## 🚀 About Me
 
-- 🎂 I'm **16 years old**
 - 💻 Programming is my favorite hobby.
 - 🌱 Currently learning **Full Stack Web Development**
 - 🐍 Comfortable with **Python basics**
 - 🌐 learning **CSS**
 - 🎯 My goal is to become either a **Web Developer**,**AI Engineer** or work in **AI Automation**
-- 📚 Always learning something new.
-
 ---
 
 ## 🛠️ Currently Learning
