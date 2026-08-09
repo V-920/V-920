@@ -24,7 +24,7 @@
 ## 💻 Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,github,python,html,css,js,c" />
+  <img src="https://skillicons.dev/icons?i=vscode,github,python,html,css,js" />
 </p>
 
 ---
