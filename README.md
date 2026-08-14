@@ -4,7 +4,6 @@
 
 ## 🚀 About Me
 
-- 💻 Programming is my favorite hobby.
 - 🌱 Currently learning **Full Stack Web Development**
 - 🐍 Comfortable with **Python basics**
 - 🌐 learning **CSS**
