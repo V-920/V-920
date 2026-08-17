@@ -4,19 +4,20 @@
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **Full Stack Web Development**
-- 🐍 Comfortable with **Python basics**
-- 🌐 learning **CSS**
-- 🎯 My goal is to become either a **Web Developer**,**AI Engineer** or work in **AI Automation**
+- 🌱 Currently learning Web & App Development
+- 🐍 Building my skills in Python
+- 🌐 Learning JavaScript & APIs
+- 🎯 My goal is to become a Software Developer / AI Engineer
+- 💡 I like building real, functional projects
 ---
 
-## 🛠️ Currently Learning
+## 🛠️ Currently Learning List
 
-- HTML
-- CSS *(Current)*
-- JavaScript
-- Full Stack Development
-- AI Automation *(If Web Development doesnt work out)*
+- 🐍 Python
+- 🌐 APIs
+- ⚡ JavaScript
+- 💻 Web & App Development
+- 🤖 AI Development
 
 ---
 
