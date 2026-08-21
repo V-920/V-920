@@ -1,7 +1,3 @@
-# Hi there 👋, I'm Vansh
-
----
-
 ## 🚀 About Me
 
 - 🌱 Currently learning Web & App Development
