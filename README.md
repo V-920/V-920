@@ -1,8 +1,5 @@
 ## 🚀 About Me
 
-- 🌱 Currently learning Web & App Development
-- 🐍 Building my skills in Python
-- 🌐 Learning JavaScript & APIs
 - 🎯 My goal is to become a Software Developer / AI Engineer
 - 💡 I like building real, functional projects
 ---
