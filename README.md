@@ -14,6 +14,8 @@ I’m the person behind **[Kontrolled Automations](https://v-920.github.io/Kontr
 - Websites connected to useful automations
 - Learning through building real projects
 
+---
+
 ### TECH & TOOLS
 
 <p>
