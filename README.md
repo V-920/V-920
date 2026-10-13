@@ -19,7 +19,3 @@ I’m the person behind **[Kontrolled Automations](https://v-920.github.io/Kontr
 <p>
   <img src="https://skillicons.dev/icons?i=github,vscode,python,js,html,css,linux" alt="GitHub, VS Code, Python, JavaScript, HTML, CSS, and Linux" />
 </p>
-
-<p align="center">
-  <a href="https://v-920.github.io/Kontrolled-Automations/">KONTROLLED AUTOMATIONS</a>
-</p>
