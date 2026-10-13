@@ -31,7 +31,5 @@ AI-powered workflows and business systems designed to reduce repetitive work.
 > Build useful things. Keep them simple. Make them work.
 
 <p align="center">
-  <a href="https://github.com/V-920">GITHUB</a>
-  &nbsp; / &nbsp;
   <a href="https://v-920.github.io/Kontrolled-Automations/">KONTROLLED AUTOMATIONS</a>
 </p>
