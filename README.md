@@ -1,5 +1,3 @@
-*Student · Builder · Entrepreneur*
-
 Building practical AI-powered systems that solve real problems.
 
 I’m the person behind **[Kontrolled Automations](https://v-920.github.io/Kontrolled-Automations/)**, where I build connected workflows, automate repetitive business tasks, and explore ways to make businesses run more efficiently.
