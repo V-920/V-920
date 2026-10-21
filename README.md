@@ -3,5 +3,5 @@ Small Indie Dev learning new things, building projects, and exploring technology
 ### TECH & TOOLS
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,lua,robloxstudio,discord"/>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,discord"/>
 </p>
